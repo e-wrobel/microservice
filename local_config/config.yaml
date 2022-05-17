@@ -1,0 +1,4 @@
+Listen: "0.0.0.0:8080"
+JsonFile: "/Users/marcinwroblewski/Downloads/golang/ports.json"
+CreateJSONEndpoint: "http://127.0.0.1:8080/"
+SQLFile: "/var/tmp/database.sql"
