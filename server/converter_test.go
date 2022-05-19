@@ -3,7 +3,7 @@ package server
 import (
 	"testing"
 
-	"github.com/e-wrobel/90poe/storage"
+	"github.com/e-wrobel/microservice/storage"
 
 	"github.com/magiconair/properties/assert"
 )
